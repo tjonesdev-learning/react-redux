@@ -5,4 +5,4 @@
 
 // Use "className" instead of "class" in JSX to avoid collisions over Javascript "class"
 
-// Use "forName" instead of "for" in JSX to differentiate from Javascript for loops
+// Use "htmlFor" instead of "for" in JSX to differentiate from Javascript for loops

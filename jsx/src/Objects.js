@@ -2,9 +2,9 @@
 import React from 'react';
 
 // Create React component
-const App = () => {
-const buttonText = {text: 'Click me'}; // Standard JS object, NOT JSX
-const labelText = 'Enter name:';
+const Objects = () => {
+  const buttonText = {text: 'Click me'}; // Standard JS object, NOT JSX
+  const labelText = 'Enter name:';
 
   return (
     <div>
@@ -24,3 +24,5 @@ const labelText = 'Enter name:';
     </div>
   );
 }
+
+export default Objects;

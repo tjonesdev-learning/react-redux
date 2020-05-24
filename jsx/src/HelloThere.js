@@ -2,7 +2,7 @@
 import React from 'react';
 
 // Create React component
-const App = () => {
+const HelloThere = () => {
   return <div>Hello there!</div>;
 }
 

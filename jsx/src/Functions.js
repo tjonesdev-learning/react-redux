@@ -6,7 +6,7 @@ const getButtonText = () => {
   return 'Click on me!';
 }
 
-const App = () => {
+const Functions = () => {
   return (
     <div>
       <label class="label" for="name">
@@ -19,3 +19,5 @@ const App = () => {
     </div>
   );
 }
+
+export default Functions;

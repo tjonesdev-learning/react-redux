@@ -2,7 +2,7 @@
 import React from 'react';
 
 // Create React component
-const App = () => {
+const Styling = () => {
   return (
     <div>
       <label class="label" for="name">
@@ -15,3 +15,5 @@ const App = () => {
     </div>
   );
 }
+
+export default Styling;

@@ -2,8 +2,8 @@
 import React from 'react';
 
 // Create React component
-const App = () => {
-const buttonText = 'Click Me!';
+const Variables = () => {
+  const buttonText = 'Click Me!';
 
   return (
     <div>
@@ -17,3 +17,5 @@ const buttonText = 'Click Me!';
     </div>
   );
 }
+
+export default Variables;

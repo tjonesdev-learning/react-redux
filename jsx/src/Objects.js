@@ -1,6 +1,5 @@
 // Import the React and ReactDOM libraries
 import React from 'react';
-import ReactDOM from 'react-dom';
 
 // Create React component
 const App = () => {
@@ -25,6 +24,3 @@ const labelText = 'Enter name:';
     </div>
   );
 }
-
-// Display React component to DOM
-ReactDOM.render(<App />, document.querySelectory('#root'));

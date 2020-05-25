@@ -14,3 +14,6 @@
 - Constructor method not necessary for state initialization because babel refactors "state = {}" to be the constructor method for us.
 
 - Create "helper function" to store render method content so wrapping or adding css to content is simpler
+
+- Put component function at bottom of file with declarations and helper functions at top
+

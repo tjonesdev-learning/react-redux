@@ -1,0 +1,10 @@
+**Common conventions:**
+
+- Double quotes ("") for JSX properties (i.e. <label for="name"></label>)
+- Single quotes ('') for non-JSX (i.e. style={{color='white'}})
+
+- Use "className" instead of "class" in JSX to avoid collisions over Javascript "class"
+
+- Use "htmlFor" instead of "for" in JSX to differentiate from Javascript for loops
+
+- Do not place function calls that only need to be retrieved once in the "render()" portion of a class-based component. Instead, place it in the constructor function where state is initialize. This prevents it from constantly being re-fetched every time the app is rendered or re-rendered.

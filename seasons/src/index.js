@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import SeasonDisplay from "./SeasonDisplay";
 
 /* 
-  const App = () => {
+const App = () => {
   window.navigator.geolocation.getCurrentPosition(
     (position) => console.log(position),
     (err) => console.log(err)
@@ -17,11 +17,16 @@ import SeasonDisplay from "./SeasonDisplay";
 
 // Re-factored to class based component
 class App extends React.Component {
-	constructor(props) {
+  /*
+  constructor(props) {
 		super(props);
 
 		this.state = { lat: null, errorMessage: '' };
   }
+  */
+
+  // Re-factored to remove constructor function
+  state = {lat: null, errorMessage: ''};
   
   componentDidMount() {
     window.navigator.geolocation.getCurrentPosition(

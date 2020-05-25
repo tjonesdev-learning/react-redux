@@ -9,4 +9,6 @@
 
 - Do not place function calls that only need to be retrieved once in the "render()" portion of a class-based component. *Instead, place it in the constructor function where state is initialized.* This prevents it from constantly being re-fetched every time the app is rendered or re-rendered.
 
--*Re: Above: Do not place function calls in the constructor function, but rather the componentDidMount method to keep code readable and concise
+- *Re: Above: Do not place function calls in the constructor function, but rather the componentDidMount method to keep code readable and concise
+
+- Constructor method not necessary for state initialization because babel refactors "state = {}" to be the constructor method for us.

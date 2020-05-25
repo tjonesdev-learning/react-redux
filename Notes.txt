@@ -7,4 +7,6 @@
 
 - Use "htmlFor" instead of "for" in JSX to differentiate from Javascript for loops
 
-- Do not place function calls that only need to be retrieved once in the "render()" portion of a class-based component. Instead, place it in the constructor function where state is initialize. This prevents it from constantly being re-fetched every time the app is rendered or re-rendered.
+- Do not place function calls that only need to be retrieved once in the "render()" portion of a class-based component. *Instead, place it in the constructor function where state is initialized.* This prevents it from constantly being re-fetched every time the app is rendered or re-rendered.
+
+-*Re: Above: Do not place function calls in the constructor function, but rather the componentDidMount method to keep code readable and concise

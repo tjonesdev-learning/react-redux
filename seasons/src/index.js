@@ -50,6 +50,7 @@ class App extends React.Component {
 
 	render() {
 		return (
+      // border-red css just an example
       <div className="border-red">
         {this.renderContent()}
       </div>

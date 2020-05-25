@@ -1,13 +1,15 @@
-import React from 'react';
+import React from "react";
 
 class SearchBar extends React.Component {
-  render() {
-    return (
-      <div>
-        Search Bar
-      </div>
-    );
-  }
+	render() {
+		return (
+			<div>
+				<form>
+					<input type="text" />
+				</form>
+			</div>
+		);
+	}
 }
 
 export default SearchBar;

@@ -17,3 +17,6 @@
 
 - Put component function at bottom of file with declarations and helper functions at top
 
+- When naming functions that refer to common callbacks (onChange, onClick, onSubmit, etc), common naming convention is "on" or "handle" + [thing being changed/clicked/submitted] + "change"/"click"/"submit"/etc.
+	EXAMPLE1: Using onChange when user types in an input field would be "onInputChange" or "handleInputChange".
+	EXAMPLE2: Using onClick when user clicks on a button would be "onButtonClick" or "handleButtonClick".

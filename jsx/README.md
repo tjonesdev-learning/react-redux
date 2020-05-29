@@ -1,3 +1,9 @@
+# **LEARNING JSX**
+
+This "app" contains several mini lesson components on JSX in the src directory.
+
+#
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

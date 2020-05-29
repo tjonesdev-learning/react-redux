@@ -1,3 +1,9 @@
+# **VIDEOS APP**
+
+This project is a current work in progress. Check back later for details!
+
+#
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

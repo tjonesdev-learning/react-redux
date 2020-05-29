@@ -1,3 +1,11 @@
+# **COMMENTS APP**
+
+An app that renders comment components that need to be approved or rejected such as what you might see as a blog owner. The below screenshot represents the app as it was created for this Udemy project.
+
+![Original Comments App Screenshot](../projects/CommentsScreenshot.png)
+
+##
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

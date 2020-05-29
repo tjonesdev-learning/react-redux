@@ -1,3 +1,13 @@
+# **SEASONS APP**
+
+An app that renders a seasonal message depending on whether the user's location is currently experiencing Summer or Winter. Handles blocked location requests and loading message as well. The below screenshot represents the app as it was created for this Udemy project.
+
+![Original Seasons App Summer Screenshot](../projects/SeasonsScreenshot_Summer.png)
+
+![Original Seasons App Winter Screenshot](../projects/SeasonsScreenshot_Winter.png)
+
+##
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

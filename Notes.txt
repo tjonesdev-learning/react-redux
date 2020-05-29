@@ -22,3 +22,5 @@
 	EXAMPLE2: Using onClick when user clicks on a button would be "onButtonClick" or "handleButtonClick".
 
 - Controlled inputs are better than uncontrolled so that data is stored in the React side instead of the HTML side
+
+- this.bind not needed if using arrow functions because arrow functions auto bind this

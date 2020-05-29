@@ -26,3 +26,5 @@
 - this.bind not needed if using arrow functions because arrow functions auto bind this
 
 - Usually put third-party imports above component imports
+
+- can use promise to return data following API request or async/await but async/await is easier

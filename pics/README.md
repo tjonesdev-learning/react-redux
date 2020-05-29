@@ -1,3 +1,11 @@
+# **PICS APP**
+
+An app that renders relevant images from search terms using the Unsplash API. The below screenshot represents the app as it was created for this Udemy project.
+
+![Original Pics App Screenshot](../projects/PicsScreenshot.png)
+
+##
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

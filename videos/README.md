@@ -3,7 +3,7 @@
 An app that renders videos from the Youtube API. Defaults to popular Youtube videos but a search term can bring up relevant results. The below screenshot represents the app as it was created for this Udemy project.
 
 <p align="center">
-  <img src="./projects/VideosScreenshot.png" alt="Original Videos App Screenshot" />
+  <img src="../projects/VideosScreenshot.png" alt="Original Videos App Screenshot" />
 </p>
 
 ##

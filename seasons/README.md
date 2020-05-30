@@ -1,6 +1,6 @@
 # **SEASONS APP**
 
-An app that renders a seasonal message depending on whether the user's location is currently experiencing Summer or Winter. Handles blocked location requests and loading message as well. The below screenshot represents the app as it was created for this Udemy project.
+An app that renders a seasonal message depending on whether the user's location is currently experiencing Summer or Winter. Handles blocked location requests and loading message as well. The below screenshots represents the app as it was created for this Udemy project.
 
 <p align="center">
   <img src="../projects/SeasonsScreenshot_Summer.png" alt="Original Seasons App Summer Screenshot" />

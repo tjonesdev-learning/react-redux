@@ -1,8 +1,10 @@
 # **VIDEOS APP**
 
-This project is a current work in progress. Check back later for details!
+An app that renders videos from the Youtube API. Defaults to popular Youtube videos but a search term can bring up relevant results. The below screenshot represents the app as it was created for this Udemy project.
 
-#
+![Original Videos App Screenshot](../projects/VideosScreenshot.png)
+
+##
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

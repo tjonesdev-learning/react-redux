@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
+import { selectSong } from "../actions";
 
 class SongList extends Component {
 	renderList() {
@@ -27,4 +28,6 @@ const mapStateToProps = (state) => {
 	};
 };
 
-export default connect(mapStateToProps)(SongList);
+export default connect(mapStateToProps, {
+	selectSong,
+})(SongList);

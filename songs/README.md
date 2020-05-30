@@ -2,7 +2,9 @@
 
 An app that renders hard-coded song information when a song is selected. Utilizes react-redux. The below screenshot represents the app as it was created for this Udemy project.
 
-![Original Songs App Screenshot](../projects/SongsScreenshot.png)
+<p align="center">
+  <img src="../projects/SongsScreenshot.png" alt="Original Songs App Screenshot" />
+</p>
 
 ##
 

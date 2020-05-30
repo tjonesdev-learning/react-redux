@@ -1,3 +1,11 @@
+# **SONGS APP**
+
+An app that renders hard-coded song information when a song is selected. Utilizes react-redux. The below screenshot represents the app as it was created for this Udemy project.
+
+![Original Songs App Screenshot](../projects/SongsScreenshot.png)
+
+##
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

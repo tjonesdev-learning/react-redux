@@ -2,7 +2,9 @@
 
 An app that renders relevant images from search terms using the Unsplash API. The below screenshot represents the app as it was created for this Udemy project.
 
-![Original Pics App Screenshot](../projects/PicsScreenshot.png)
+<p align="center">
+  <img src="../projects/PicsScreenshot.png" alt="Original Pics App Screenshot" />
+</p>
 
 ##
 

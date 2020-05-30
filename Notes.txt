@@ -27,4 +27,6 @@
 
 - Usually put third-party imports above component imports
 
-- can use promise to return data following API request or async/await but async/await is easier
+- Can use promise to return data following API request or async/await but async/await is easier
+
+- Function usually called 'mapStateToProps' by convention. Can be named otherwise but not common.

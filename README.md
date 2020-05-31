@@ -56,3 +56,12 @@ An app that renders hard-coded song information when a song is selected. Utilize
 <p align="center">
   <img src="./projects/SongsScreenshot.png" alt="Original Songs App Screenshot" width="700" />
 </p>
+
+## **7. BLOG**
+***Library:*** React-Redux
+
+An app that renders blog posts from the JSONPlaceholder API. The below screenshot represents the app as it was created for this Udemy project.
+
+<p align="center">
+  <img src="./projects/BlogScreenshot.png" alt="Original Blog App Screenshot" width="700" />
+</p>

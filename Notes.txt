@@ -32,3 +32,5 @@
 - Function usually called 'mapStateToProps' by convention. Can be named otherwise but not common.
 
 - Usually use switch statements in reducers to account for all possible outcomes
+
+- When extracting data from an API, best to extract as "response.data" or equivalent instead of just "response" so not pulling in loads of unnecessary data

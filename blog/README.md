@@ -1,3 +1,13 @@
+# **BLOG APP**
+
+An app that renders blog posts from the JSONPlaceholder API. The below screenshot represents the app as it was created for this Udemy project.
+
+<p align="center">
+  <img src="../projects/BlogScreenshot.png" alt="Original Blog App Screenshot" />
+</p>
+
+##
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

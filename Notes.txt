@@ -30,3 +30,5 @@
 - Can use promise to return data following API request or async/await but async/await is easier
 
 - Function usually called 'mapStateToProps' by convention. Can be named otherwise but not common.
+
+- Usually use switch statements in reducers to account for all possible outcomes
